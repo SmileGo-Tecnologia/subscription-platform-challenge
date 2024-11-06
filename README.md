@@ -24,7 +24,7 @@ A API permitirá:
 	- Implementar autenticação e autorização usando OAuth2 ou JWT.
 2.	Entidades:
 ```json
-# Subscription
+// Subscription
 {
     "id": "12345",
     "clientId": "67890",
@@ -37,7 +37,7 @@ A API permitirá:
 }
 ```
 ```json
-# Payment
+// Payment
 {
     "id": "98765",
     "subscriptionId": "12345",
