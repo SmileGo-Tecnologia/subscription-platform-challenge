@@ -86,4 +86,4 @@ Suba seu projeto para um repositório Git público de sua escolha e envie o link
 
 Destinatário: victor.ximenis@esphero.tech
 
-Cópia: leonardo.brito@esphero.tech, kelly.carvalho@baseservice.io, jessica.rocha@baseservice.io
+Cópia: leonardo.brito@esphero.tech, veronica.abrahao@baseservice.io
