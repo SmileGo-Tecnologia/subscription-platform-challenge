@@ -84,6 +84,6 @@ A entrega deve ser feita em até 5 dias a contar do recebimento por e-mail, com 
 
 Suba seu projeto para um repositório Git público de sua escolha e envie o link para os endereços abaixo:
 
-Destinatário: victor.ximenis@esphero.tech
+Destinatário: leonardo.brito@esphero.tech
 
-Cópia: leonardo.brito@esphero.tech, veronica.abrahao@baseservice.io
+Cópia: victor.ximenis@esphero.tech, veronica.abrahao@baseservice.io
